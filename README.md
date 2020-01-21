@@ -1,1 +1,7 @@
-# Rest-ful-API-Authentication
+# Rest-ful-API-Authentication App
+
+## Usage
+
+> clone this repository.
+
+
