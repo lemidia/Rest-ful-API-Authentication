@@ -1,7 +1,5 @@
 # Rest-ful-API-Authentication App
 
-## README.md Author is lemidia.
-
 ## Make sure
 
 <p>Make sure that node.js must be installed in your computer. </p>
@@ -14,6 +12,6 @@
 2. Inside .env file, Replace <password> with your mongoDB account password.
 3. Open the terminal.Start Server by typing 'npm start' or 'npm run dev' in the terminal (Make sure that except for quotation mark in the terminal).
 4. Open the postman and try to send 'POST' reqeust with JSON data format.
-5. For example = { name: lemidia, age: 25, email: poiu2186@gmail.com, password:#%$@#^#% }
+5. Try with Example JSON data => { name: lemidia, age: 25, email: poiu2186@gmail.com, password:#%$@#^#% }
 
 
