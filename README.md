@@ -1,5 +1,15 @@
 # Rest-ful-API-Authentication App
 
+## Used Tech, Packages, Libraris, Dependencies and Database in the project.
+- Node.js
+- nodemon: To server restart
+- Express.js: Node.js package
+- Mongoose: DB package
+- MongoDB: To save user data
+- bcryptjs: Encrypt the user's password so that 3rd party don't see
+- dotenv: Configuration private setting data
+- @hapi/joi: To validate user input form data
+
 ## Make sure
 
 <p>Make sure that node.js must be installed in your computer. </p>
