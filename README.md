@@ -11,7 +11,9 @@
 1. clone the repository.
 2. Inside .env file, Replace <password> with your mongoDB account password.
 3. Open the terminal.Start Server by typing 'npm start' or 'npm run dev' in the terminal (Make sure that except for quotation mark in the terminal).
-4. Open the postman and try to send 'POST' reqeust with JSON data format.
-5. Try with Example JSON data => { name: lemidia, age: 25, email: poiu2186@gmail.com, password:#%$@#^#% }
-
+4. Open the postman
+5. Try to send 'POST' request with JSON data(below 6) format with URL - http://localhost:5000/api/user/register
+6. Try with Example JSON data => { "name": "lemidia", "email": "poiu2186@gmail.com", "password":"own password" }
+7. Once you have done this, Try to send 'POST' request with JSON data(below 7) format with URL - http://localhost:5000/api/user/login
+8. Try with Example JSON data => { "poiu2186@gmail.com", "password":"<own passowrd" }
 
